@@ -127,7 +127,7 @@ Contributions are welcome! Please follow these steps:
 - **Project Lead**: Azad Shukla
 - **UI Developer**: Aditya Alok
   - R Shiny UI/UX design and implementation
-  - GitHub: [Aditya Alok](https://github.com/adityaalok)
+  - GitHub: [Aditya Alok](https://github.com/Adityaalok4)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -142,6 +142,6 @@ For support:
 
 ## Acknowledgments
 Special thanks to:
-- Aditya Alok for UI/UX implementation
+- Aditya Alok for UI/UX implementation and Visualizing Power BI dashboard 
 - The R Shiny community
 - All contributors and testers
