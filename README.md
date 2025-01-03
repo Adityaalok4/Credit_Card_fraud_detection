@@ -128,7 +128,7 @@ Contributions are welcome! Please follow these steps:
 - **UI Developer**: Aditya Alok
   - R Shiny UI/UX design and implementation
   - GitHub: [Aditya Alok](https://github.com/Adityaalok4)
-
+- **Power BI**: Aditya Alok 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
